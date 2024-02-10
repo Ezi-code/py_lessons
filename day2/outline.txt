@@ -1,0 +1,44 @@
+Introduction to Data Structures in Python
+
+I. Introduction to Data Structures
+A. What are Data Structures?
+B. Importance of Data Structures in Programming
+C. Types of Data Structures
+
+II. Lists
+A. Definition and Characteristics
+B. Creating Lists
+C. Accessing and Modifying Elements
+D. List Operations (Appending, Inserting, Deleting)
+E. List Slicing
+F. Common List Methods
+
+III. Tuples
+A. Definition and Characteristics
+B. Creating Tuples
+C. Accessing Tuple Elements
+D. Immutability of Tuples
+E. Tuple Packing and Unpacking
+F. Common Tuple Operations
+
+IV. Dictionaries
+A. Definition and Characteristics
+B. Creating Dictionaries
+C. Accessing and Modifying Dictionary Items
+D. Dictionary Methods (keys(), values(), items())
+E. Iterating Through Dictionaries
+F. Common Dictionary Operations
+
+V. Sets
+A. Definition and Characteristics
+B. Creating Sets
+C. Set Operations (Union, Intersection, Difference)
+D. Modifying Sets (Adding, Removing)
+E. Set Methods
+F. Common Set Operations
+
+VI. Arrays
+A. Introduction to Arrays in Python
+B. Using Arrays with the array Module
+C. Array Operations and Methods
+D. Comparison with Lists
